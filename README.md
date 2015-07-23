@@ -1,4 +1,4 @@
-# Nested set model examples
+# Nested set model
 
 ![Tree traversal](http://we-rc.com/img/blog-tree-traversal.png)
 
