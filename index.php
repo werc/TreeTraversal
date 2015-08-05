@@ -104,7 +104,7 @@ echo '</form>';
 ?>
 
 <br>
-<h3>Move node and leafs (if any)</h3>
+<h3>Move node and leaves (if any)</h3>
 <?php 
 echo '<form method="POST" class="form-inline">';
 echo '<div class="form-group">';
